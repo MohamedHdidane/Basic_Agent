@@ -1,4 +1,0 @@
-import mythic_container
-import basic_agent.agent_functions
-
-mythic_container.mythic_service.start_and_run_forever()
