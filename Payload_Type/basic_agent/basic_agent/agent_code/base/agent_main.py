@@ -6,7 +6,7 @@ import time
 from .c2_profiles.http import HTTPC2Profile
 
 # Configuration
-C2_SERVER = "http://127.0.0.1:8080"
+C2_SERVER = "http://192.168.79.6:8080"
 AGENT_UUID = "basic-agent-001"
 
 def main():
